@@ -1,4 +1,4 @@
-### INSTANT POT CRISPY CARNITAS INGREDIENTS
+### Carnitas ingredients
 
 -   1 (4-5 pound) lean boneless pork roast, cut into 2-inch chunks (with excess fat trimmed off)
 -   fine sea salt and freshly-cracked black pepper
@@ -6,7 +6,7 @@
 -   1 batch mojo sauce *(see below)*
 -   for serving: chopped fresh cilantro, diced white or red onion, and/or fresh salsa *(I used the pineapple salsa recipe included below)*
 
-### MOJO SAUCE INGREDIENTS
+### Mojo sauce ingredients
 
 -   1 cup beer *(or chicken stock)*
 -   6 cloves garlic, minced
@@ -17,7 +17,7 @@
 -   1 teaspoon fine sea salt
 -   1/2 teaspoon freshly-cracked black pepper
 
-### **MAKE THE INSTANT POT CRISPY CARNITAS:**
+### Instructions
 
 1. In a medium mixing bowl, whisk together the mojo sauce ingredients until combined. Set aside until ready to use.
 2. Season pork chunks on all sides with salt and pepper.
@@ -30,4 +30,7 @@
 
 ### This recipe is great with tortillas
 
-[https://www.youtube.com/watch?v=WcLaFYsBY8A](https://www.youtube.com/watch?v=WcLaFYsBY8A)
+[Beef fat Tortillas | Chuds bbq](https://www.youtube.com/watch?v=WcLaFYsBY8A)
+
+### Original recipe link
+[Gimme Some Oven Pressure Cooker Carnitas](https://www.gimmesomeoven.com/instant-pot-crispy-carnitas/)
